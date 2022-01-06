@@ -1,4 +1,6 @@
 #Install turtle module in your IDLE and then execute the below program
+#How to install..? 
+#Go to command prompt-->Enter "pip install turtle"-->Wait untill the module installed successfully-->Exit from the command prompt-->Now run the code.
 import turtle
 res=turtle.Turtle()
 wn=turtle.Screen()
